@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gyanendar
-Skills: HTML, CSS, JS,REACT JS,CHAKRA UI,NODE JS,EXPRESS JS,MONGO DB,GITHUB
-Email: gyanendarsingh891@gmail.com
-{{/user}}
